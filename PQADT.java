@@ -1,4 +1,4 @@
-package PriorityQueues;
+package PriorityQueue;
 
 public interface PQADT {
     void insert(PQItem newItem) throws PQFullException;

@@ -1,4 +1,4 @@
-package PriorityQueues;
+package PriorityQueue;
 
 public class PQ implements PQADT {
     private PQItem[] item;

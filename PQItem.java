@@ -1,4 +1,4 @@
-package PriorityQueues;
+package PriorityQueue;
 
 public class PQItem implements PQItemADT {
     String Priority;

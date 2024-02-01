@@ -1,4 +1,4 @@
-package PriorityQueues;
+package PriorityQueue;
 
 public interface PQItemADT {
     // print information of the PQ item
